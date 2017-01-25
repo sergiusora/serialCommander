@@ -1,0 +1,2 @@
+serialCommander	KEYWORD1
+verificareSerial	KEYWORD2
